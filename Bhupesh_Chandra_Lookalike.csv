@@ -1,0 +1,3 @@
+CustomerID,SimilarCustomer1,Score1,SimilarCustomer2,Score2,SimilarCustomer3,Score3
+C0001,C0002,0.98,C0003,0.95,C0004,0.93
+C0002,C0001,0.98,C0003,0.94,C0005,0.91
